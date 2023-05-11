@@ -12,7 +12,7 @@ public class Draft9_Task2_4_9 {
     //        Пример 4 ППППППППППППППППППППППППППППППППППП УДАЛСЯ ОКОНЧАТЕЛЬНО !!!!!!!!!!!!!!!!!! удаляем ошибку при неправильном вводе
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter number x from 0 to 9: ");
+        System.out.print("Enter number x, from 0 to 9: ");
 
 
         try {
@@ -22,7 +22,7 @@ public class Draft9_Task2_4_9 {
 
             while (x >= 0 && x <= 9) {
                 while (x >= 0 && x <= 6) {
-                    System.out.print("Enter next number x from 0 to 9: ");
+                    System.out.print("Enter next number x, from 0 to 9: ");
                     x = scanner.nextInt();
 
                 }
