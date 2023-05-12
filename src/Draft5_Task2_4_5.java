@@ -4,7 +4,8 @@ import java.util.Scanner;
 // Видеоурок здесь : https://lms.synergy.ru/learning/view/68495/?groupPeriodId=1045153&disciplineVersionId=25858&start=1
 // Задания здесь : https://lms.synergy.ru/learning/view/68557/?groupPeriodId=1045153&disciplineVersionId=25858&start=1
 
-// видеоурок  с примером решения здесь: Модуль 1 Урок 2, мин 25.28
+// видеоурок
+// с примером решения здесь: Модуль 1 Урок 2, мин 25.28
 public class Draft5_Task2_4_5 {
 
 
