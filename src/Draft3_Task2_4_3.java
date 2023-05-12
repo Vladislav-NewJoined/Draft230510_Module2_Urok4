@@ -24,4 +24,5 @@ public class Draft3_Task2_4_3 {
         System.out.println("Done!");
 
     }
+//        Конец Примера _ ККККККККККККККК
 }
