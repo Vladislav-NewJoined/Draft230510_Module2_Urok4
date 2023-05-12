@@ -17,8 +17,8 @@ public class Draft8_Task2_4_8 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter digit x, from 0 to 9: ");
         String x = scanner.nextLine();
+        System.out.println();
         System.out.println("Countries where the phone code starts with this digit:");
-
         /*Создаем список HashMap с телефонными кодами стран из справочника*/
         Map<String, String> mapOrigin = Map.ofEntries(
                 Map.entry("7840", "Abkhazia"),
