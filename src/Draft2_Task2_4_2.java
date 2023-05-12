@@ -1,6 +1,5 @@
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
-import java.util.Scanner;
 
 // Видеоурок здесь : https://lms.synergy.ru/learning/view/68495/?groupPeriodId=1045153&disciplineVersionId=25858&start=1
 // Задания здесь : https://lms.synergy.ru/learning/view/68557/?groupPeriodId=1045153&disciplineVersionId=25858&start=1
